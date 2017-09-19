@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Orbs
+  - Glitch
+  - Button
+  - Box
+  - GlitchCamera
+  - LaserEnd
+  - MovingPlatform
+  - Checkpoint
+  - Player2
+  - Glitch1
+  - changecam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - PlayerHead
+  - Background
+  - Stopper
+  - Box
+  - Glitch
+  - Button
+  - Lazer
+  - Parralax
+  - Wall
+  - ExplodingPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backgrounds
+    uniqueID: 240209651
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3026696427
+    locked: 0
+  - name: Foreground
+    uniqueID: 2003890531
+    locked: 0
